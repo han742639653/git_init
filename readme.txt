@@ -77,3 +77,6 @@ very good
 
 
 =======new git_init
+
+
+====test pull function ====
