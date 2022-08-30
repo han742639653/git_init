@@ -69,3 +69,11 @@ very good
 
 
 =======online test github  function
+
+
+
+
+======clone git_init  
+
+
+=======new git_init
